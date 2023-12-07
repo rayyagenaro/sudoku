@@ -28,6 +28,7 @@ public class SudokuMain extends JFrame {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);  // to handle window-closing
         setTitle("Sudoku");
         setVisible(true);
+        setVisible(false);
     }
 
     /** The entry main() entry method */
